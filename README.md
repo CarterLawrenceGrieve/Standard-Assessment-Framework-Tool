@@ -3,4 +3,4 @@ Rewrites values assigned on an NGSS-aligned 4-point rubric to hard grade percent
 
 Developped because administration demands to provide percentage grades more quickly got in the way of my own data analysis using the four-point system.  This sucker prevented a LOT of unecessary work.
 
-"Skill" here essentially denotes my use of the NGSS SEPs in tandem with content standards - it made sense to the other teacher who ended up using this piece of code.
+"Skill" here essentially denotes my use of the NGSS SEPs in tandem with content standards.
